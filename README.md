@@ -1,4 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=%23A3DCBE&height=300&section=header&text=BaekYeomin)
+<div align="center">
+
+  ![header](https://capsule-render.vercel.app/api?type=venom&color=A3DCBE&height=300&section=header&text=JiEun's%20Github&fontSize=90&fontColor=5C4033)
+</div>
+
 
 
 <!--
