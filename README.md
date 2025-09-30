@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving)
+![header](https://capsule-render.vercel.app/api?type=waving&color=#A3DCBE&height=300&section=header&Baekyeomin))
 
 <!--
 **baekyeomin/baekyeomin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
