@@ -1,9 +1,10 @@
+
+<!--#민트초코 st 헤더
 <div align="center">
 
   ![header](https://capsule-render.vercel.app/api?type=venom&color=B3EDE2&height=200&section=header&text=Yeomin's%20Github&fontSize=60&fontColor=7C553C)
-</div>
-
-
+</div>-->
+![헤더](https://i.imgur.com/gtzbbwN.png)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeomin100)](https://solved.ac/yeomin100/)
 
 
