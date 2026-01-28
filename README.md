@@ -28,7 +28,7 @@
 | --- | --- | --- |
 | 2025.08 ~ 2025.08 | [[교육봉사] 인공지능 기초 이론 및 모델 구현 실습](https://github.com/baekyeomin/2025-1-YongMoon-Voluntary) | 용문고등학교 |
 | 2025.08 ~ 2025.08 | [[교육봉사] 홍대부고 라즈베리파이를 이용한 스마트 미러 만들기](https://github.com/baekyeomin/2025-1-HongikHigh-Voluntary) | 홍익대학교사범대학부속고등학교 |
-
+| 2026.01 ~ 2026.01 | [교육봉사] 한국장학재단 동계(32기) 대학생 재능봉사캠프 | 학성초등학교 |
 
 <p align="right">
   <a href="https://solved.ac/yeomin100/">
